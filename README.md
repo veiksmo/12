@@ -2,7 +2,7 @@
 Vilniaus "Veiksmo" gimnazijos IV klasės informatikos pamokos medžiaga ir užduotys 
 
 ## 🎓 Teorija 🎓
-[Rikiavimo algoritmai](https://gamma.app/docs/1108m-Rusiavimo-algoritmai-praktika-o347q4dcimnabew?mode=doc)
+[Rikiavimo algoritmai](https://gamma.app/docs/1208-Rusiavimo-algoritmai-plaac4g0d44woad)
 
 ## ✍️ Praktika ✍️
 [Rikiavimo algoritmai]
